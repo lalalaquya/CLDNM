@@ -23,4 +23,3 @@ CLDNM is a novel short-term load forecasting method that synergistically combine
   year={2024},
   publisher={Elsevier}
 }
-```c
