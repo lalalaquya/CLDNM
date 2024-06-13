@@ -9,6 +9,7 @@ Keyu Song, Yang Yu, Tengfei Zhang, Xiaosi Li, Zhenyu Lei, Houtian He Yizheng Wan
 CLDNM is a novel short-term load forecasting method that synergistically combines the strengths of a dendritic neuron model (DNM), long short-term memory, and complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN). Experiments are conducted on the Panama electricity load dataset to compare the proposed dendritic learning model with several state-of-the-art models, including CrossFormer and Transformer. The results confirm that the proposed model has significantly better prediction accuracy.
 
 # Framework
+![CLDNM](https://github.com/lalalaquya/CLDNM/assets/109777841/c2cb8e5b-f070-469a-94c2-ebb3883b7d38)
 
 
 # Citation
