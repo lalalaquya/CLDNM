@@ -13,6 +13,7 @@ CLDNM is a novel short-term load forecasting method that synergistically combine
 
 
 # Citation
+```c
 @article{song2024short,
   title={Short-term load forecasting based on CEEMDAN and dendritic deep learning},
   author={Song, Keyu and Yu, Yang and Zhang, Tengfei and Li, Xiaosi and Lei, Zhenyu and He, Houtian and Wang, Yizheng and Gao, Shangce},
@@ -22,3 +23,4 @@ CLDNM is a novel short-term load forecasting method that synergistically combine
   year={2024},
   publisher={Elsevier}
 }
+```c
